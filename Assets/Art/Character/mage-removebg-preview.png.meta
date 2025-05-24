@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: b4252cde2e60ae647b1c0fbc8fd3bd80
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5210488883006336269
+    second: mage-removebg-preview_0
+  - first:
+      213: -7940609022704782419
+    second: mage-removebg-preview_1
+  - first:
+      213: -3133385495064074319
+    second: mage-removebg-preview_2
+  - first:
+      213: -2896498033708287482
+    second: mage-removebg-preview_3
+  - first:
+      213: -7021271283630116781
+    second: mage-removebg-preview_4
+  - first:
+      213: 2703268895298617931
+    second: mage-removebg-preview_5
+  - first:
+      213: -5720003845653296866
+    second: mage-removebg-preview_6
+  - first:
+      213: 5229684187809484976
+    second: mage-removebg-preview_7
+  - first:
+      213: -3451323432100926125
+    second: mage-removebg-preview_8
+  - first:
+      213: 4239515537338042978
+    second: mage-removebg-preview_9
+  - first:
+      213: 5810827969646994943
+    second: mage-removebg-preview_10
+  - first:
+      213: 744773439568789707
+    second: mage-removebg-preview_11
+  - first:
+      213: 5758376214024093314
+    second: mage-removebg-preview_12
+  - first:
+      213: -5118064869549300908
+    second: mage-removebg-preview_13
+  - first:
+      213: 7558225696803812798
+    second: mage-removebg-preview_14
+  - first:
+      213: -8315415281722918306
+    second: mage-removebg-preview_15
+  - first:
+      213: -6933619987237843141
+    second: mage-removebg-preview_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mage-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 105
+        width: 172
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0de6b168006f4840800000000000000
+      internalID: 5210488883006336269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 354
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da37b6d3a2a4dc190800000000000000
+      internalID: -7940609022704782419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 351
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7285e5e7af384d0800000000000000
+      internalID: -3133385495064074319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 355
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a333872629dc7d0800000000000000
+      internalID: -2896498033708287482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 351
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3507393c7fe6f8e90800000000000000
+      internalID: -7021271283630116781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 258
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4203acdcb0f38520800000000000000
+      internalID: 2703268895298617931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 258
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1987f9eec67e90b0800000000000000
+      internalID: -5720003845653296866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 258
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b09cdd8f02939840800000000000000
+      internalID: 5229684187809484976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 258
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d64a8df9f6a10d0800000000000000
+      internalID: -3451323432100926125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 165
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a88c65be8c5da30800000000000000
+      internalID: 4239515537338042978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 165
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5a6b5504534a050800000000000000
+      internalID: 5810827969646994943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 169
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0c4af4f77f55a00800000000000000
+      internalID: 744773439568789707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 165
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ef6ff48acd9ef40800000000000000
+      internalID: 5758376214024093314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 69
+        width: 55
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453ab192e1bf8f8b0800000000000000
+      internalID: -5118064869549300908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 69
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5783ed93634e860800000000000000
+      internalID: 7558225696803812798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 69
+        width: 56
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5afc05bbd5b99c80800000000000000
+      internalID: -8315415281722918306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 69
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fc3258b55d6cf90800000000000000
+      internalID: -6933619987237843141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 22ba2183c43b9434e92f65164240885e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mage-removebg-preview_0: 5210488883006336269
+      mage-removebg-preview_1: -7940609022704782419
+      mage-removebg-preview_10: 5810827969646994943
+      mage-removebg-preview_11: 744773439568789707
+      mage-removebg-preview_12: 5758376214024093314
+      mage-removebg-preview_13: -5118064869549300908
+      mage-removebg-preview_14: 7558225696803812798
+      mage-removebg-preview_15: -8315415281722918306
+      mage-removebg-preview_16: -6933619987237843141
+      mage-removebg-preview_2: -3133385495064074319
+      mage-removebg-preview_3: -2896498033708287482
+      mage-removebg-preview_4: -7021271283630116781
+      mage-removebg-preview_5: 2703268895298617931
+      mage-removebg-preview_6: -5720003845653296866
+      mage-removebg-preview_7: 5229684187809484976
+      mage-removebg-preview_8: -3451323432100926125
+      mage-removebg-preview_9: 4239515537338042978
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
