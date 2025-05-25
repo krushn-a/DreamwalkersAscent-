@@ -1,16 +1,25 @@
+using System.Collections;
 using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    private LevelManager levelManager;
+
+    private void Start()
     {
-        
+        //Intialize the LevelManager
+        levelManager = FindFirstObjectByType<LevelManager>();
+        StartCoroutine(LoadSceneSequentially());
     }
 
-    // Update is called once per frame
-    void Update()
+    private IEnumerator LoadSceneSequentially() 
     {
-        
+        yield return levelManager.LoadLevelAsync("Room1");
+        yield return levelManager.LoadLevelAsync("Main");
+    }
+
+    private void Awake()
+    {
+        DontDestroyOnLoad(this.gameObject);
     }
 }
